@@ -157,13 +157,6 @@ Open_To:
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajpastagia14\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajpastagia14\&layout=compact\&theme=tokyonight)
-
----
 
 ## Connect With Me
 
