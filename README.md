@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Akshar%20Pastagia&fontSize=52&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Financial%20Operations%20Analyst%20%7C%20Data%20and%20Business%20Intelligence&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Akshar%20Pastagia&fontSize=27&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Financial%20Operations%20Analyst%20%7C%20Data%20and%20Business%20Intelligence&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=700&lines=Financial+Reconciliations+%2B+AP%2FAR+Processing;Fraud+and+Risk+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+Into+Business+Decisions" alt="Typing SVG" />
@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/POSTGRAD-Business%20Information%20Technology-6D28D9?style=for-the-badge&labelColor=1e1b2e" />
 <img src="https://img.shields.io/badge/B.SC-Computer%20Science-6D28D9?style=for-the-badge&labelColor=1e1b2e" />
 <img src="https://img.shields.io/badge/TORONTO,%20ON-Open%20to%20Relocate-4C1D95?style=for-the-badge&labelColor=1e1b2e" />
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshar-pastagia-228203269/)
@@ -19,10 +18,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajpastagia14)
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=ajpastagia14&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/ajpastagia14?color=6d28d9&style=for-the-badge&label=FOLLOWERS&labelColor=1e1b2e" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
@@ -207,28 +202,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajpastagia14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=ajpastagia14&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajpastagia14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ajpastagia14&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
 ## 🟣 Contribution Activity
 
