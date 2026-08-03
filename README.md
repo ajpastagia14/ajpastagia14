@@ -207,28 +207,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajpastagia14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=ajpastagia14&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajpastagia14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ajpastagia14&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
 ## 🟣 Contribution Activity
 
