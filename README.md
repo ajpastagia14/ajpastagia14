@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Akshar%20Pastagia&fontSize=27&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Financial%20Operations%20Analyst%20%7C%20Data%20and%20Business%20Intelligence&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Hello!%20I'm%20Akshar&fontSize=27&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Financial%20Operations%20Analyst%20%7C%20Data%20and%20Business%20Intelligence&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=700&lines=Financial+Reconciliations+%2B+AP%2FAR+Processing;Fraud+and+Risk+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+Into+Business+Decisions" alt="Typing SVG" />
