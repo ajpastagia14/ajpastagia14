@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Akshar%20Pastagia&fontSize=52&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Financial%20Operations%20Analyst%20%7C%20Data%20%26%20Business%20Intelligence&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Akshar%20Pastagia&fontSize=52&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Financial%20Operations%20Analyst%20%7C%20Data%20and%20Business%20Intelligence&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=700&lines=Financial+Reconciliations+%2B+AP%2FAR+Processing;Fraud+%26+Risk+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+Into+Business+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=700&lines=Financial+Reconciliations+%2B+AP%2FAR+Processing;Fraud+and+Risk+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+Into+Business+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -207,7 +207,28 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
+## 🟣 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajpastagia14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=ajpastagia14&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajpastagia14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
+
+## 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajpastagia14&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
 ## 🟣 Contribution Activity
 
