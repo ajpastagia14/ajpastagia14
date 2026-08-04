@@ -136,7 +136,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 ## 🟣 Experience
 
-### Financial Operations Analyst — Neo Financial
+### Business Analyst — Neo Financial
 **11/2025 – Present**
 
 - Reduced payment dispute backlog by resolving 15–20 disputes weekly on overdue receivables, negotiating repayment terms while balancing risk mitigation with account accuracy
