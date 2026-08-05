@@ -22,7 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 About Me
+## 👋 About Me
 
 ```yaml
 name: "Akshar Pastagia"
@@ -57,7 +57,7 @@ I care about **accuracy, auditability, and speed** — catching discrepancies be
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Tech Stack
+## 🛠️ Tech Stack
 <div align="center">
 
 
@@ -135,7 +135,7 @@ I care about **accuracy, auditability, and speed** — catching discrepancies be
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
-## 🟣 Data & Financial Analytics Expertise
+## 📊 Data & Financial Analytics Expertise
 
 <div align="center">
 
@@ -153,7 +153,7 @@ I care about **accuracy, auditability, and speed** — catching discrepancies be
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Featured Projects
+## 💻 Featured Projects
 
 <details open>
 <summary><b>💠 Fraud Transaction Analytics & Risk Reporting</b></summary>
@@ -187,7 +187,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Experience
+## 💼 Experience
 
 ### Business Analyst — Neo Financial
 **11/2025 – Present**
@@ -214,7 +214,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -234,7 +234,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Education
+## 🎓 Education
 
 | Program | Institution | Duration |
 |:---|:---|:---|
@@ -245,7 +245,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Languages
+## 🗣️ Languages
 
 <div align="center">
 
@@ -273,7 +273,7 @@ Evaluated customer purchasing and payment behavior trends, translating patterns 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Current Focus
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -291,7 +291,7 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🟣 Connect
+## 🖇️ Connect
 
 <div align="center">
 
