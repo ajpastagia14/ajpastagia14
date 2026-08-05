@@ -135,7 +135,7 @@ I care about **accuracy, auditability, and speed** — catching discrepancies be
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
-## 📊 Data & Financial Analytics Expertise
+📊 Data & Financial Analytics Expertise
 
 <div align="center">
 
